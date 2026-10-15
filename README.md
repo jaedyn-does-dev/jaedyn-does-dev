@@ -10,10 +10,6 @@ I'm looking to collaborate with other developers just starting out in game devel
 
 I'm looking for help with bridging my gap in self-taught game development and a "traditional" computer science / software roadmap
 
-Ask me about... anything! I'm an open book. 
-
-How to reach me: jaedynworkaccount@atomicmail.io
-
 Pronouns : She / They
 
 Fun fact: I took an unoffical three-year medical leave from college because my brain decided to throw a massive party without my permission. I’m back now at 22, fully in charge of the guest list
